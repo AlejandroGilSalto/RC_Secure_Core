@@ -1,0 +1,14 @@
+C:\Users\aleja\source\repos\AG_SecureCore\AG_SecureCore\bin\Debug\AG_SecureCore.exe.config
+C:\Users\aleja\source\repos\AG_SecureCore\AG_SecureCore\bin\Debug\AG_SecureCore.exe
+C:\Users\aleja\source\repos\AG_SecureCore\AG_SecureCore\bin\Debug\AG_SecureCore.pdb
+C:\Users\aleja\source\repos\AG_SecureCore\AG_SecureCore\obj\Debug\AG_SecureCore.FrmBigScreenBase.resources
+C:\Users\aleja\source\repos\AG_SecureCore\AG_SecureCore\obj\Debug\AG_SecureCore.FrmBase.resources
+C:\Users\aleja\source\repos\AG_SecureCore\AG_SecureCore\obj\Debug\AG_SecureCore.FrmLogin.resources
+C:\Users\aleja\source\repos\AG_SecureCore\AG_SecureCore\obj\Debug\AG_SecureCore.FrmMain.resources
+C:\Users\aleja\source\repos\AG_SecureCore\AG_SecureCore\obj\Debug\AG_SecureCore.FrmSplash.resources
+C:\Users\aleja\source\repos\AG_SecureCore\AG_SecureCore\obj\Debug\AG_SecureCore.Properties.Resources.resources
+C:\Users\aleja\source\repos\AG_SecureCore\AG_SecureCore\obj\Debug\AG_SecureCore.csproj.GenerateResource.cache
+C:\Users\aleja\source\repos\AG_SecureCore\AG_SecureCore\obj\Debug\AG_SecureCore.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\AG_SecureCore\AG_SecureCore\obj\Debug\AG_SecureCore.exe
+C:\Users\aleja\source\repos\AG_SecureCore\AG_SecureCore\obj\Debug\AG_SecureCore.pdb
+C:\Users\aleja\source\repos\AG_SecureCore\AG_SecureCore\obj\Debug\AG_SecureCore.csproj.AssemblyReference.cache

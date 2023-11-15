@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AG_SecureCore", "AG_SecureCore\AG_SecureCore.csproj", "{241A2DC6-3F56-4F18-9DC4-C94FD0E04872}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{485133CC-CCFF-4B1A-A1BC-ACC896D1375F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{241A2DC6-3F56-4F18-9DC4-C94FD0E04872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241A2DC6-3F56-4F18-9DC4-C94FD0E04872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241A2DC6-3F56-4F18-9DC4-C94FD0E04872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241A2DC6-3F56-4F18-9DC4-C94FD0E04872}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0CD485C-0B3E-4020-98FD-2C4AAD41D75C}
+	EndGlobalSection
+EndGlobal
